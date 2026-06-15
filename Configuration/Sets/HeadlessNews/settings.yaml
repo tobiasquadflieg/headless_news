@@ -1,5 +1,5 @@
 news:
   view:
-    layoutRootPath: 'EXT:headless_news/Resources/Private/Layouts/News/'
-    partialRootPath: 'EXT:headless_news/Resources/Private/Partials/News/'
-    templateRootPath: 'EXT:headless_news/Resources/Private/Templates/News/'
+    layoutRootPath: 'EXT:headless_news/Resources/Private/News/Layouts/'
+    partialRootPath: 'EXT:headless_news/Resources/Private/News/Partials/'
+    templateRootPath: 'EXT:headless_news/Resources/Private/News/Templates/'
